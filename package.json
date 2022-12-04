@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "solc": "^0.8.17",
+    "web3": "^1.8.1"
+  },
+  "scripts": {
+    "artifacts": "cp -r ./build/contracts/ ./fe/src/artifacts"
+  }
+}
